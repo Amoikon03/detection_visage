@@ -44,7 +44,7 @@ with col1:
     """, unsafe_allow_html=True)
 
 with col2:
-    st.image("images.jpg", caption="Représentation de l'intelligence artificielle (IA)", use_column_width=True)
+    st.image("Detection_faciale/images.jpg", caption="Représentation de l'intelligence artificielle (IA)", use_column_width=True)
 
 # Lien vers l'autre page ou section
 st.subheader("Visitez la page Visage")
